@@ -1,0 +1,14 @@
+{
+	"id": "anteslots",
+	"name": "Ante Slots",
+	"display_name": "Ante Slots",
+	"author": ["RachelBepis"],
+	"description": "you start at 1 joker slot and gain 1 each ante",
+	"prefix": "anteslots",
+	"priority": 3,
+	"version": "1.0.0",
+	"dependencies": [
+    "Steamodded (>=1.0.0~BETA-1221a)",
+		"Lovely (>=0.9)",
+  ],
+}
